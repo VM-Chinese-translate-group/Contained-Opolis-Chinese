@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Contained Opolis 项目简体中文翻译</h1>
+   <h1>Contained Opolis项目简体中文翻译</h1>
 </div>
 
 | CurseForge     | 加载器     | 整合包版本         | 汉化维护状态 |
@@ -8,7 +8,7 @@
 
 ### 📌 汉化相关
 
-- **汉化项目**：[Paratranz](https://paratranz.cn/projects/项目)
+- **汉化项目**：[Paratranz](https://paratranz.cn/projects/20010)
 - **汉化发布**：[VM 汉化组官网](https://vmct-cn.top/modpacks/项目)
 - **译者名单**：[贡献者排行榜](https://paratranz.cn/projects/项目/leaderboard)
 
