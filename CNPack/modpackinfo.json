@@ -1,12 +1,12 @@
 {
   "modpack": {
     "name": "Contained Opolis",
-    "version": "5.0",
+    "version": "5.1",
     "translation": {
       "id": "meta用的id",
       "url": "https://vmct-cn.top/modpacks/官网页面/",
       "language": "zh_cn",
-      "version": "汉化版本1.0.0"
+      "version": "5.1"
     }
   }
 }
