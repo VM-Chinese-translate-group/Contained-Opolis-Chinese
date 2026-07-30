@@ -9,7 +9,7 @@
 	chapter.2C99EB79B09BD9A4.title: "Compacting"
 	chapter.2F52B3BBDD66B5B6.title: "Molten"
 	chapter.360C848444F1C0C7.title: "Crystalore"
-	chapter.3DBC25EFD6241274.title: "Information"
+	chapter.3DBC25EFD6241274.title: "信息"
 	chapter.4114E4895BEB3B6A.title: "Zap"
 	chapter.444AA1682DDCCB9A.title: "Fractoria"
 	chapter.45E981C237825E3B.title: "Biofuel"
@@ -26,10 +26,10 @@
 	chapter.7E89B0530E4D5277.title: "Accelerator"
 	chapter_group.092E9F78275FD73A.title: "Cindrath"
 	chapter_group.093FA14A5D7B3C21.title: "Crystalore"
-	chapter_group.54C9DD242F539EC9.title: "Starting Up"
+	chapter_group.54C9DD242F539EC9.title: "旅途之始"
 	chapter_group.58ED9E103E7F1BC3.title: "Fractoria"
-	chapter_group.700E0B302C809164.title: "Asteroids"
-	chapter_group.7D64C2BEE1124C5E.title: "Overworld"
+	chapter_group.700E0B302C809164.title: "小行星"
+	chapter_group.7D64C2BEE1124C5E.title: "主世界"
 	file.0000000000000001.title: "Contained"
 	quest.0108195534AF5DA5.quest_desc: ["Enter the &b&lOverworld&r&r"]
 	quest.0108195534AF5DA5.title: "Home Sweet Home..."
@@ -181,7 +181,7 @@
 	quest.1CD9E71781436FC4.title: "Functional Storage"
 	quest.1D2C88D2D8A3C11D.quest_desc: ["High Energy"]
 	quest.1D5C9C8419A67ABD.quest_desc: ["Used to make other items. Place the Anvil on top of a &l&4Magma Block&r, then right click the anvil with the first item in the recipe. Add the other 2 items and right click with a &l&5Stygian Hammer&r to craft"]
-	quest.1DAE848C36420E9C.quest_desc: ["This pack uses &lUltimine&r. Holding the selected key (grave) will allow you to break multiple blocks at once"]
+	quest.1DAE848C36420E9C.quest_desc: ["本整合包装载了&l连锁破坏&r。按住指定键（~）即可一次性破坏多个方块"]
 	quest.1E200DB05441C74B.quest_desc: ["Crafted &lDust&r"]
 	quest.1E2A46A6A6DE847E.quest_desc: ["Smelted &lRaw Ore&r"]
 	quest.1E47A7B7BF70C6A8.quest_desc: ["Made inside the &lFragment Forge&r"]
@@ -209,7 +209,7 @@
 	quest.2202BEEC26C7AB6E.quest_subtitle: "Renewable light gray asteroids"
 	quest.2218DA080411AEED.quest_desc: ["Processed &lFragments&r"]
 	quest.222309F8769B86B6.quest_desc: ["Crafted &lShards&r"]
-	quest.226290A096599FBC.quest_desc: ["As always a lot of things have been tweaked in this pack. Some usual methods to obtain things may be different to what you are used to. The &lQuest Book&r aims to direct you through the modpack "]
+	quest.226290A096599FBC.quest_desc: ["一如既往地，这个包也调整了很多东西。因此，有些物品无法通过常规的方法获取。&l任务书&r会指引你推进游戏的"]
 	quest.226759B16E4C8881.quest_desc: ["Made in the &lFoundry&r"]
 	quest.228864840B078569.quest_desc: ["A powerful ingot"]
 	quest.22DD46B617E6CB66.quest_desc: ["Made inside the &lSolar Cooker&r"]
@@ -252,9 +252,9 @@
 		"You can use any power to power these they don't need to be powered by AE2 just like the normal Growth Accelerators"
 	]
 	quest.29D29B50789A9ACB.quest_desc: [
-		"Contained can be played with &lShaders&r. "
+		"Contained支持&l光影&r。"
 		""
-		"Open your&l Video Settings&r and click &lShader Packs&r on the top right!"
+		"打开&l视频设置&r，点击右上角的&l光影包&r选项吧！"
 	]
 	quest.2A01F01E0D82520F.quest_desc: ["Increases the amount of kills per operation, Has various levels"]
 	quest.2A01F01E0D82520F.title: "Mass Upgrade"
@@ -308,7 +308,7 @@
 	]
 	quest.2E750A3B80173D52.title: "Cindrath Core Deposit"
 	quest.2E8FA529D92677C6.quest_desc: ["Made inside the &lSolar Cooker&r"]
-	quest.2EA00E0AB4C8BCAE.quest_desc: ["&lContained&r has fully custom dimensions. But you need to get out the &lCube&r first"]
+	quest.2EA00E0AB4C8BCAE.quest_desc: ["&lContained&r整合包中有完全自定义的维度。但是你得先从这个&l小方块&r里逃出去"]
 	quest.2EA872082D1E9019.quest_desc: ["Made inside the &lFragment Forge&r"]
 	quest.2EAAC40E8A7DA32C.quest_desc: ["Drops from &lRaw Celestigem Ore&r"]
 	quest.2EE98DD4F014B394.quest_desc: ["A base key used to craft &lRoom Keys&r"]
@@ -419,7 +419,7 @@
 	quest.447B001B246EDBF0.quest_desc: ["Can be grown in the &lCloche&r"]
 	quest.44A70626C182D086.quest_desc: ["From the &lScary Dragon&r"]
 	quest.44F2FA0B4607BCFA.quest_desc: ["Can be made in various way using &lPolymer Resin&r"]
-	quest.44F78276737DA0DD.quest_desc: ["Thanks for downloading and &lWelcome To Contained!&r A 1.21.1 &lSpace Based Modpack&r"]
+	quest.44F78276737DA0DD.quest_desc: ["感谢下载，&l欢迎来到Contained&r！一个1.21.1版本下的&l太空主题整合包&r"]
 	quest.453E2B8B99D6E95C.quest_desc: ["A single block to create your essences"]
 	quest.455EE64ABCFBC1D8.quest_desc: ["An alloy of &lPlatinum&r and &lNetherite&r"]
 	quest.45779FE831C1FE2B.quest_desc: ["Reduce the cost of summoning mobs, Has various levels"]
@@ -462,9 +462,9 @@
 	quest.4BF815F3672F4AF1.quest_desc: ["The next location is &l&#6075ffCrystalore&r when it &lturns &6Orange&r its ready to move to &l&7Fractoria&r"]
 	quest.4BF815F3672F4AF1.title: "Further Infusion"
 	quest.4C2C7C9BACD11BBD.quest_desc: [
-		"You can use the &lDark Mode&r button at the bottom left of your inventory to enable various levels of &lDark Mode&r"
+		"点击物品栏左下角的&l深色模式&r按钮，可启用不同程度的&l深色模式&r"
 		""
-		"By default, you can press the &lZ&r key to zoom in."
+		"默认情况下，按&lZ&r键放大视角。"
 	]
 	quest.4C3111EC5015F9C4.quest_desc: ["Exports items/fluids/energy out of the network into connected inventories"]
 	quest.4C3111EC5015F9C4.title: "Integrated Exporters"
@@ -618,9 +618,9 @@
 	quest.659B46412BD87214.quest_desc: ["Crafted &lEnder Pearl Fragments&r"]
 	quest.65E7518A01D4E0EC.quest_desc: ["This is used to make &lVitality Fuel&r needed to power the &lWoot Multliblock&r. The guide book shows the amount of fluid needed per valid mob"]
 	quest.65EBEFA09D9F0231.quest_desc: [
-		"Join the &lBBL Discord&r for support, report bugs and suggest features or additions."
+		"加入&lBBL Discord&r来支持我们，报告bug或提出建议。"
 		""
-		"Use /discord in game to get the link"
+		"输入/discord获取链接"
 	]
 	quest.662D0FE7DAC0062E.quest_desc: ["Crafted &lShards&r"]
 	quest.6639AFC202264868.quest_desc: ["Pure Chaos, these look like they could be useful"]
@@ -657,7 +657,7 @@
 	quest.6A361A2188596E74.quest_desc: ["Places blocks for you"]
 	quest.6AB8D9F0706E5D32.quest_desc: ["Advanced"]
 	quest.6B1F26092C3A368A.quest_desc: ["To the next &lPlanet&r"]
-	quest.6B5308E5CDA4B581.quest_desc: ["&lContained&r has a &lPublic Server&r. Join from your multiplayer menu!"]
+	quest.6B5308E5CDA4B581.quest_desc: ["&lContained&r有一个&l公开服务器&r。可以在多人游戏菜单里加入！"]
 	quest.6B535D62F07D732A.quest_desc: ["From seeds"]
 	quest.6B76DF1344AD1B24.quest_desc: ["From &lSand&r and &lNaphtha&r"]
 	quest.6BA12C7FAF6BB8C2.quest_desc: ["A block of &lFerricore Ingots&r"]
@@ -713,14 +713,14 @@
 	quest.7395DF0BA7283B3F.quest_desc: ["Useful for digging"]
 	quest.741FCF1314040459.quest_desc: ["Can be used to get &lWater&r out of &lWater Drops&r"]
 	quest.742998DB5BF1DB20.quest_desc: [
-		"&lCreators&r"
+		"&l制作者&r"
 		"&lbenbenlaw&r - All Opolis All the Time"
 		"&lAmmonium&r - Creator of other modpacks such as &lForever Factor&r and &lMechanical Mastery&r"
 		""
 		""
 		"&lSpecial Thanks&r to all the &lPatreon&r and &lTesters&r of the pack as well as &lYuki&r who provided many of the custom textures needed for the pack!"
 		""
-		"&lThank You ALL&r"
+		"&l感谢各位&r"
 	]
 	quest.744AAA39C04416C3.quest_desc: ["Using a &lHammer&r on a &lLight Gray Asteroid&r will drop &lLight Gray Asteroid Dust&r"]
 	quest.74522F4407C45A7C.quest_desc: ["Made inside the &lEnergizing Orb&r"]
@@ -770,15 +770,15 @@
 	quest.7EFC62A6DC0AAAD7.quest_desc: ["Broken down &lCharcoal&r"]
 	quest.7F644441625E5DAB.quest_desc: ["Light Reading"]
 	quest.7F838D7C9F904839.quest_desc: [
-		"&lContained &ralso contains some optional &lResource Packs&r founds in the &lPause Menu&r -> Options -> &lResource Packs&r"
+		"&lContained&r中还有一些可选择安装的&l资源包&r。你可以在&l暂停界面&r -> 设置 -> &l资源包&r里找到它们"
 		""
-		"&lBBL Colors Connected Textures&r, provides some connected texture for the colored blocks"
+		"&lBBL Colors Connected Textures&r中含有部分彩色方块的连接纹理"
 		""
-		"&lSlightly Improved Font&r, provides a clean font"
+		"&lSlightly Improved Font&r提供了一种更整洁的字体"
 		""
-		"&lAE2 Blackout&r, Reduces the brightness of AE2 blocks and GUI's"
+		"&lAE2 Blackout&r调暗了AE2模组方块和GUI的亮度"
 		""
-		"&lPretty X Smart Pipez&r, Makes Pipez pipes look better"
+		"&lPretty X Smart Pipez&r，让Pipez模组的管道更美观"
 	]
 	quest.7FAEB1F541D28E3A.quest_desc: ["Part of the &lRefinery&r"]
 	reward_table.0C7DB9A9CD4CC5DF.title: "Random Goo Stew"
@@ -792,9 +792,9 @@
 	task.139282D294948DC5.title: "Exporters"
 	task.15BC4CA10BF0D76B.title: "Upgrades"
 	task.173DCBADE801AE91.title: "The End"
-	task.18D78C49F671EA9E.title: "Creators"
+	task.18D78C49F671EA9E.title: "制作者"
 	task.1C4D3B06253F6A1C.title: "Refined Construction Stick"
-	task.1C78778A7CA072E2.title: "Public Server"
+	task.1C78778A7CA072E2.title: "公开服务器"
 	task.2020318B475087C5.title: "Energizing"
 	task.20979FE9D9B8782A.title: "End Suit Leggings"
 	task.2159DCF43E8E2E90.title: "Ender Storage"
@@ -805,22 +805,22 @@
 	task.34F3AC19D422A5ED.title: "Importers"
 	task.364FACF001FF1E84.title: "More Organic Powder"
 	task.369DECA55D7048A6.title: "End Suit Boots"
-	task.3A0DA31BB18507AD.title: "Welcome To Contained"
+	task.3A0DA31BB18507AD.title: "欢迎来到Contained"
 	task.3B99CEFD013F3703.title: "Happy Ghasts"
-	task.3D96FC466B093AF4.title: "Shaders"
-	task.41326774DC8C040C.title: "Useful Tips"
+	task.3D96FC466B093AF4.title: "光影"
+	task.41326774DC8C040C.title: "实用技巧"
 	task.50F3786DAB3E9955.title: "Diesel"
-	task.519884FA76D087A4.title: "The World"
+	task.519884FA76D087A4.title: "世界"
 	task.524CAA1C83702AEB.title: "Tiers"
-	task.546EAB8883D1DB46.title: "Support"
+	task.546EAB8883D1DB46.title: "支持"
 	task.5BF799A75A774B69.title: "Any Goo Stew"
-	task.5E8B2D6EB618F8CE.title: "Resource Packs"
-	task.5F8CD4E81BCF10BD.title: "Ultimine"
+	task.5E8B2D6EB618F8CE.title: "资源包"
+	task.5F8CD4E81BCF10BD.title: "连锁破坏"
 	task.6433DEFD87EF8993.title: "Crystalore"
 	task.6BB79AB094DA4304.title: "Light Naptha"
 	task.6CA3C3FD16A35E1A.title: "Multiblock"
 	task.70B1CADBA39B1564.title: "End Suit Helmet"
-	task.71033E9944EF5429.title: "Quests"
+	task.71033E9944EF5429.title: "任务"
 	task.799AA9B7D42CD719.title: "Interfaces"
 	task.7ADE96B509C019E0.title: "Trapped!"
 	task.7D0ABAC9D754B61E.title: "Ender Steel"
