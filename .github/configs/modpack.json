@@ -1,11 +1,11 @@
 {
-  "configured": false,
-  "packId": 130,
-  "packName": "FTB StoneBlock 4",
-  "versionPattern": "FTB StoneBlock 4 {version}",
-  "mcVersion": "1.20.1", 
-  "loader": "forge",
-  "updateMethod": "cursethebeast",
+  "configured": true,
+  "packId": 1285125,
+  "packName": "Contained Opolis",
+  "versionPattern": "Contained_Opolis-{version}",
+  "mcVersion": "1.21.1", 
+  "loader": "neoforge",
+  "updateMethod": "api",
   "infoFilePath": "CNPack/modpackinfo.json",
   "sourceDir": "Source",
   "paratranz": {
