@@ -10,7 +10,7 @@
 	images: [{
 		click: "https://www.youtube.com/watch?v=92hhdzjYrp0"
 		height: 6.0d
-		hover: ["Click For a YouTube Video"]
+		hover: ["Click For a YouTube Video"]
 		image: "contained:textures/quests/particle_accelerator.png"
 		rotation: 0.0d
 		width: 9.0d
@@ -33,7 +33,10 @@
 			}]
 			tasks: [{
 				id: "3DFBFC8FE4368537"
-				item: { count: 1, id: "oritech:accelerator_controller" }
+				item: {
+					count: 1
+					id: "oritech:accelerator_controller"
+				}
 				type: "item"
 			}]
 			x: 0.0d
@@ -52,7 +55,10 @@
 			}]
 			tasks: [{
 				id: "15B6D7C610466025"
-				item: { count: 1, id: "draconicevolution:chaotic_core" }
+				item: {
+					count: 1
+					id: "draconicevolution:chaotic_core"
+				}
 				type: "item"
 			}]
 			x: 0.0d
@@ -71,7 +77,10 @@
 			}]
 			tasks: [{
 				id: "5C9299E30B164AB7"
-				item: { count: 1, id: "oritech:accelerator_ring" }
+				item: {
+					count: 1
+					id: "oritech:accelerator_ring"
+				}
 				type: "item"
 			}]
 			x: -1.0d
@@ -90,7 +99,10 @@
 			}]
 			tasks: [{
 				id: "606CAE7CEF0C85F5"
-				item: { count: 1, id: "oritech:accelerator_motor" }
+				item: {
+					count: 1
+					id: "oritech:accelerator_motor"
+				}
 				type: "item"
 			}]
 			x: 0.0d
@@ -109,7 +121,10 @@
 			}]
 			tasks: [{
 				id: "37EB40B6B77FB131"
-				item: { count: 1, id: "oritechthings:particle_accelerator_speed_sensor" }
+				item: {
+					count: 1
+					id: "oritechthings:particle_accelerator_speed_sensor"
+				}
 				type: "item"
 			}]
 			x: 1.0d
@@ -153,7 +168,10 @@
 			}]
 			tasks: [{
 				id: "23EA2EB503594E38"
-				item: { count: 1, id: "contained:overworld_crystal" }
+				item: {
+					count: 1
+					id: "contained:overworld_crystal"
+				}
 				type: "item"
 			}]
 			x: 0.0d
@@ -172,7 +190,10 @@
 			}]
 			tasks: [{
 				id: "41B0492D9030A019"
-				item: { count: 1, id: "oritech:prometheum_ingot" }
+				item: {
+					count: 1
+					id: "oritech:prometheum_ingot"
+				}
 				type: "item"
 			}]
 			x: 3.5d
@@ -194,7 +215,10 @@
 			}]
 			tasks: [{
 				id: "1E71A2FBDB7C411F"
-				item: { count: 1, id: "justdirethings:time_crystal_budding_block" }
+				item: {
+					count: 1
+					id: "justdirethings:time_crystal_budding_block"
+				}
 				type: "item"
 			}]
 			x: 0.0d
@@ -213,7 +237,10 @@
 			}]
 			tasks: [{
 				id: "7357443E601D0595"
-				item: { count: 1, id: "justdirethings:blockswappert2" }
+				item: {
+					count: 1
+					id: "justdirethings:blockswappert2"
+				}
 				type: "item"
 			}]
 			x: 0.0d
@@ -253,7 +280,10 @@
 			}]
 			tasks: [{
 				id: "37AB90838B2F046C"
-				item: { count: 1, id: "justdirethings:time_crystal" }
+				item: {
+					count: 1
+					id: "justdirethings:time_crystal"
+				}
 				type: "item"
 			}]
 			x: 0.0d
@@ -277,7 +307,10 @@
 			}]
 			tasks: [{
 				id: "3776B833ECC570F4"
-				item: { count: 1, id: "justdirethings:time_crystal_block" }
+				item: {
+					count: 1
+					id: "justdirethings:time_crystal_block"
+				}
 				type: "item"
 			}]
 			x: 0.0d
@@ -288,7 +321,10 @@
 			id: "2E1B456306646A39"
 			tasks: [{
 				id: "7AD3968801863462"
-				item: { count: 1, id: "contained:exotic_resource_cluster" }
+				item: {
+					count: 1
+					id: "contained:exotic_resource_cluster"
+				}
 				type: "item"
 			}]
 			x: 1.0d
@@ -304,7 +340,10 @@
 			id: "4A0A5DA0D4A42484"
 			tasks: [{
 				id: "11EB35D1E10EE3E8"
-				item: { count: 1, id: "contained:exotic_ancient_ingot" }
+				item: {
+					count: 1
+					id: "contained:exotic_ancient_ingot"
+				}
 				type: "item"
 			}]
 			x: 2.0d
@@ -315,7 +354,10 @@
 			id: "138A2AFCBFBB72A9"
 			tasks: [{
 				id: "3C84BD331AE26593"
-				item: { count: 1, id: "contained:ancient_ingot_block" }
+				item: {
+					count: 1
+					id: "contained:ancient_ingot_block"
+				}
 				type: "item"
 			}]
 			x: 2.5d
@@ -326,7 +368,10 @@
 			id: "5D858DE125173A59"
 			tasks: [{
 				id: "13730BB725005319"
-				item: { count: 1, id: "contained:exotic_blazing_cinderstone" }
+				item: {
+					count: 1
+					id: "contained:exotic_blazing_cinderstone"
+				}
 				type: "item"
 			}]
 			x: 2.5d
@@ -337,7 +382,10 @@
 			id: "7283827FC958AE07"
 			tasks: [{
 				id: "3E988C8FAA2A4EA0"
-				item: { count: 1, id: "contained:exotic_crystalline_quartz" }
+				item: {
+					count: 1
+					id: "contained:exotic_crystalline_quartz"
+				}
 				type: "item"
 			}]
 			x: 3.5d
@@ -348,7 +396,10 @@
 			id: "0151F02859E022CD"
 			tasks: [{
 				id: "76971258309E4BAD"
-				item: { count: 1, id: "contained:crystalline_quartz_block" }
+				item: {
+					count: 1
+					id: "contained:crystalline_quartz_block"
+				}
 				type: "item"
 			}]
 			x: 4.5d
@@ -369,17 +420,26 @@
 			tasks: [
 				{
 					id: "6B218D56C3B778BB"
-					item: { count: 1, id: "oritechthings:advanced_target_designator" }
+					item: {
+						count: 1
+						id: "oritechthings:advanced_target_designator"
+					}
 					type: "item"
 				}
 				{
 					id: "79D2A74B7A1444F3"
-					item: { count: 1, id: "oritechthings:accelerator_magnetic_field" }
+					item: {
+						count: 1
+						id: "oritechthings:accelerator_magnetic_field"
+					}
 					type: "item"
 				}
 				{
 					id: "616178A00D6FFC9D"
-					item: { count: 1, id: "oritechthings:particle_accelerator_speed_sensor" }
+					item: {
+						count: 1
+						id: "oritechthings:particle_accelerator_speed_sensor"
+					}
 					type: "item"
 				}
 			]
