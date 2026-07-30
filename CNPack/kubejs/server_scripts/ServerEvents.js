@@ -1,6 +1,15 @@
 //Server Events
 
-//Default Gravity = 0.08
+ServerEvents.loaded(event => {
+
+  if (event.server.persistentData.gameRules) return
+  event.server.gameRules.set("doTraderSpawning", false)
+  event.server.gameRules.set("doPatrolSpawning", false)
+  event.server.gameRules.set("doInsomnia", false)
+  event.server.gameRules.set("doDaylightCycle", false)
+  event.server.gameRules.set("doWeatherCycle", false)
+  event.server.persistentData.gameRules = true
+})
 
 //Banned Placed items in Space
 BlockEvents.placed(event => {
