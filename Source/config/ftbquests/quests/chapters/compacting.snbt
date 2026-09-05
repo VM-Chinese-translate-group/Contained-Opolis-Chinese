@@ -228,8 +228,8 @@
 		{
 			dep_control_pts: {
 				26D9C302307DE18F: [
-					6.892857142857146d
-					4.374319727891148d
+					7.285714285714285d
+					5.312159863945574d
 					-3.0714285714285765d
 					7.4457482993197175d
 				]
@@ -237,6 +237,7 @@
 			dependencies: ["26D9C302307DE18F"]
 			hide_until_deps_complete: true
 			id: "0108195534AF5DA5"
+			progression_mode: "linear"
 			rewards: [{
 				id: "1E44F98EA208936E"
 				item: {
@@ -277,6 +278,25 @@
 			}]
 			x: 1.5d
 			y: -1.0d
+		}
+		{
+			dependencies: ["2BD3113E010CC0D2"]
+			id: "5A7DF1D11D52A81A"
+			rewards: [{
+				id: "17FB0C35F18B7886"
+				item: {
+					count: 1
+					id: "shops:copper_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4C6FCD71FB0DF615"
+				item: { count: 1, id: "nep:miniaturization_controller" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
 		}
 	]
 }

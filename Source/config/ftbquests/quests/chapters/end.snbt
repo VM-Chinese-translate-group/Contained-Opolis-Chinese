@@ -362,6 +362,14 @@
 				"3D985F69E4A2A7C5"
 			]
 			id: "033DBCF88277E03A"
+			rewards: [{
+				id: "450411C5AA070720"
+				item: {
+					count: 1
+					id: "shops:copper_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4F843999106E39AF"
 				item: { count: 1, id: "justdirethings:eclipsealloy_ingot" }
@@ -426,6 +434,26 @@
 			}]
 			x: -1.5d
 			y: -6.5d
+		}
+		{
+			dependencies: ["67B03CF63C0C6B55"]
+			id: "4D6BE20900C91964"
+			optional: true
+			rewards: [{
+				id: "0D916BB8C6435082"
+				item: {
+					count: 1
+					id: "shops:copper_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "39804B291C8F113A"
+				item: { count: 1, id: "roomopolis:room_key_block" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -8.0d
 		}
 	]
 }
