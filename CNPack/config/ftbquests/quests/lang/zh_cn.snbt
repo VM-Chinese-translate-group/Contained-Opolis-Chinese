@@ -42,6 +42,7 @@
 	quest.016EE3F15EE00417.quest_desc: ["A &lLarge Asteroid&r found in&l Space&r"]
 	quest.016EE3F15EE00417.title: "Red Asteroid"
 	quest.01838B662393F676.quest_desc: ["Crafted &lSmall Dust&r"]
+	quest.01D66285A89FD936.quest_desc: ["Can be used to automate &lIce&r production"]
 	quest.024B17958331B403.quest_desc: ["Allows quick crafting of items from your inventory or from chest in 5 block range"]
 	quest.026186F2325DCF96.quest_desc: ["Made with &lChaotic Fustion Crafting&r. The &2&lBudding Time Crystal Block&r&r need to be infused with the energy of different dimensions. First back to &l&6Cindrath&r"]
 	quest.02E8D933E1A69BB8.quest_desc: ["Placing a &lSoulstone&r next to a &lShadowpulse Goo&r will transform it into&l Soulium Ore&r"]
@@ -239,7 +240,11 @@
 	quest.2651E613480483C1.quest_desc: ["Solar infused, Tasty and Crunchy"]
 	quest.26541A1357B89F07.quest_desc: ["When in the &lUpgrade Slot&r allows for &lDiamond Shards&r to be dropped"]
 	quest.267B04ABDF4464FA.quest_desc: ["Pulverized &lAsteroid&r"]
-	quest.2698C59059989C2D.quest_desc: ["All of these materials come from &lMysterious Asteroids&r"]
+	quest.2698C59059989C2D.quest_desc: [
+		"All of these materials come from &lMysterious Asteroids&r"
+		""
+		"You can press &lG&r on it to see it in a larger view"
+	]
 	quest.26A46551E03101A0.quest_desc: ["Requires 8 of these"]
 	quest.26A633AE03DAD6A8.quest_desc: [
 		"Connect it using the &l&6Advanced Target Designator&r select the main &l&dParticle Accelerator&r by shift-clicking on it, then shift-click on the &6&lMagnetic field&r and &l&6Speed Sensor&r to link it."
@@ -292,7 +297,9 @@
 	quest.2BAD90CF6C0BA15B.quest_desc: [
 		"This can be used to collect deposits found around &l&6Cindrath,&r &l&#6075ffCrystalore&r and &l&7Fractoria&r"
 		""
-		"The drill can also be used to harvest &lMysterious Blocks&r for example &lOrange Mysterious Asteroid Block&r will get &lCopper Dust&r"
+		"The drill can also be used to harvest &lMysterious Blocks&r for example &lOrange Mysterious Asteroid Block&r will get &lCopper Dust&r for the rest of the list you can press &lG&r on the &lMysterious Block Extractor&r"
+		""
+		"If you change the block under it you need to right click on it for it to register it"
 	]
 	quest.2BD3113E010CC0D2.quest_desc: [
 		"You need 4 of these, right click after placing to see where to place the next one. "
@@ -337,6 +344,7 @@
 	quest.2FB5F5C0F0517030.quest_desc: ["Can be smelted into &lGlass&r"]
 	quest.2FF06205C7788DBC.quest_desc: ["Enables &lredstone control&r of pipes"]
 	quest.301D3B6E9F205FA2.quest_desc: ["Found on and inside the &lLarge Asteroids&r"]
+	quest.30234C458FBE83B9.quest_desc: ["Can be used to get Crystallized Chorus"]
 	quest.30CFDEBF53E8D7D0.quest_desc: ["From either &lMolten Debris&r or &lAncient Debris&r"]
 	quest.30DF18C3AB84C91C.quest_desc: [
 		"Can move items, fluids and power wirelessly"
@@ -346,6 +354,14 @@
 	quest.30FFA05F0DAAB716.quest_desc: ["Made in the &lFoundry&r"]
 	quest.317CF33AF442AB1F.quest_desc: ["The &lInventory Proxy Addon&r allows you to better control the items that go into an Inventory"]
 	quest.31820E06D5E6D188.quest_desc: ["Smelted &lDust&r"]
+	quest.3182D266BB928C66.quest_desc: [
+		"Look a Draconic Evolution Fusion recipe up in JEI, open a ME Pattern Encoding Terminal, and click the + on the recipe: the blank pattern comes back as a &l&6Fusion Crafting Pattern&r"
+		""
+		"Add an Import Card to the Pattern Provider so the finished item comes back out of the Core into the network"
+		""
+		"For more information you can press G on a &l&6Fusion Crafting Pattern&r"
+	]
+	quest.3182D266BB928C66.title: "Fusion Crafting Patterns"
 	quest.3189506A0D1DD5BD.quest_desc: ["Stores RF, Red side is output and green is input"]
 	quest.31FA4E366CA93810.quest_desc: ["Drops from &lRaw Ferricore Ore&r"]
 	quest.321C15362F974711.quest_desc: ["Right click to shoot yourself foward, Drop into &lLava&r to fill"]
@@ -393,7 +409,11 @@
 	quest.3BFC5127BF38DDAD.quest_desc: ["Drops from the &lEnder Dragon&r"]
 	quest.3C18E1A304CB0EEF.quest_desc: ["The final tier of &lFusion&r"]
 	quest.3C6993A9C4C531E1.quest_desc: ["Can be melted for &lMolten Experience&r"]
-	quest.3C804ADDF2934D5B.quest_desc: ["All of these materials come from &lMysterious Asteroids&r"]
+	quest.3C804ADDF2934D5B.quest_desc: [
+		"All of these materials come from &lMysterious Asteroids&r"
+		""
+		"You can press &lG&r on it to see it in a larger view"
+	]
 	quest.3D0AE07C0F5EE0B3.quest_desc: ["Made in the &lFoundry&r"]
 	quest.3D66D8DC69F64E58.quest_desc: ["Made on the &lInfusion Altar&r"]
 	quest.3D78D93F59F98C79.quest_desc: ["Produces &lDraconium Dust&r with the &lMysterious Block Extractor&r"]
@@ -429,6 +449,7 @@
 	quest.41E7536BA9F80427.quest_desc: ["Place the portal frames in the shape of a nether portal and right click the base with an imperium crystal."]
 	quest.41E7536BA9F80427.title: "Fractoria Portal"
 	quest.41E9719A42B4781A.quest_desc: ["Crafted &lDust&r"]
+	quest.42315F5C90544073.quest_desc: ["You can mine &lIce&r with &lSilk Touch&r enchant or modifier"]
 	quest.4264BB0601141011.quest_desc: ["Part of a multiblock"]
 	quest.42B95586E6D5811C.quest_desc: [
 		"Wait this is not the &b&lOverworld&r&r I remember. "
@@ -437,7 +458,7 @@
 	]
 	quest.42D14045A0C61BEC.quest_desc: ["A simple coil"]
 	quest.4340D84C0B477200.quest_desc: [
-		"Drops from &lWither Skeletons&r in &l&6Cindrath&r"
+		"Drops from &lWither Skeletons&r in &l&6Cindrath&r they spawn in the dark"
 		""
 		"Once you have one skull you can put &lBeheading modifier&r on a sword and with that sword you have 100% chance of getting a skull when you kill a &lWither Skeletons&r"
 	]
@@ -507,12 +528,14 @@
 	quest.4CFDC7CB2C874312.quest_desc: ["Crafted &lSmall Dust&r"]
 	quest.4D2E7D9E856708B0.quest_desc: ["Made inside the &lSolar Cooker&r"]
 	quest.4D3E3D18A543D5FD.quest_desc: ["When in the &lUpgrade Slot&r allows for &lGold Shards&r to be dropped"]
+	quest.4D6BE20900C91964.quest_desc: ["If you accidentally removed all your &lRoom Key Blocks&r you can craft a new one"]
 	quest.4D8A882E16CFFC8F.quest_desc: ["A &lLarge Asteroid&r found in&l Space&r"]
 	quest.4D8A882E16CFFC8F.title: "Yellow Asteroid"
 	quest.4DA4D2A00FD1F26D.quest_desc: ["Like the walls but breakable"]
 	quest.4DA4D2A00FD1F26D.quest_subtitle: "Decorative"
 	quest.4DA5532BADF76ABE.quest_desc: ["Made on the &5&lStygian Anvil&r"]
 	quest.4DBD0494A9A9E11B.quest_desc: ["Processed &lCrystalline&r"]
+	quest.4E0E0AB3FF3C7AE5.quest_desc: ["One block that runs a whole fusion crafting. No Crafting Core, no Injectors, no alignment: the Matrix stages the ingredients itself, charges on raw energy, and hands the finished item back to the network."]
 	quest.4E0E3C705BD5410A.quest_desc: ["&lHappy Ghasts&r can be summoned using the &lSummoning Block&r. When equiped with a &lHarness&r can be controlled and used to fly around in &lSpace&r"]
 	quest.4E2B4445927F9A61.quest_desc: ["Requires 4 of these"]
 	quest.4EA0C2EE474CF072.quest_desc: ["Solid &lIron&r"]
@@ -521,7 +544,6 @@
 	quest.4F22A9AF9C4516CF.quest_desc: ["Crafted &lSky Stone&r&l"]
 	quest.4FAF3CCD5C571C76.quest_desc: ["Filled with knowledge and souls "]
 	quest.5031A070DD8EE925.quest_desc: ["Obtained in the &lCloche&r"]
-	quest.5050BB3F21A5FD5E.quest_desc: ["Can be used to automate the Fusion Crafting"]
 	quest.50F12E5D81214788.quest_desc: ["This is one of the gateways that can be created"]
 	quest.50F5C893E6207330.quest_desc: ["Can be grown in the &lCloche&r"]
 	quest.5112BCDE6250CFC2.quest_desc: ["A block of &lBlazegold Ingots&r"]
@@ -588,6 +610,13 @@
 	quest.59B0451A79CC4F2C.quest_desc: ["Used to find items inside blocks"]
 	quest.5A1BB6D84C9E84AB.quest_desc: ["Smelted &lRaw Ore&r. Makes some great tools with a higher durability than &lIron Tools&r"]
 	quest.5A65BD4034CCFF58.quest_desc: ["Made inside the &lEnergizing Orb&r"]
+	quest.5A7DF1D11D52A81A.quest_desc: [
+		"Build the projector field as you normally would, then place the Controller so it touches one of the four projectors on any face."
+		""
+		"Put a Pattern Provider against any side of the Controller and drop Miniaturization Pattern patterns in it. The Controller buffers the blocks and the catalyst as they arrive."
+		""
+		"The Controller is an ME machine: it joins the network through its own grid connection, draws a small standing power cost, and returns finished items to the Provider on its own. It needs no Import Card."
+	]
 	quest.5AA091C6158AFC24.quest_desc: ["Expertly destroyed "]
 	quest.5AD6B428EE43837B.quest_desc: ["A horrible place to live"]
 	quest.5AD6B428EE43837B.title: "Planet: Cindrath"
@@ -620,6 +649,7 @@
 	quest.5E390E34E1708A6A.quest_desc: ["An output from Refining &lCrude Oil&r. Can be used to increase output from &lColored Dusts&r"]
 	quest.5E92B1F1FEDBCB96.quest_desc: ["Made inside the &lSolar Cooker&r"]
 	quest.5F6436394F2BA7C7.quest_desc: ["Placing a &lSand&r next to a &lPrimogel Goo&r will transform it into&l Soul Sand&r"]
+	quest.6030BE8CE9047932.quest_desc: ["Can be used to compress multiple machine addons into a single block"]
 	quest.60761705EAE627C9.quest_desc: ["Made with the &lEnderic Laser&r"]
 	quest.60773605EBB87D6B.quest_desc: [
 		"Made inside the &lMultiblock Controller&r with a &lMixer&r"
@@ -630,6 +660,7 @@
 	quest.60B2631BF00EA274.quest_desc: ["Pulverized &lAsteroid&r"]
 	quest.60E726B0EC6FAD61.quest_desc: ["Makes items/fluids/energy in connected inventories available to the network"]
 	quest.60E726B0EC6FAD61.title: "Integrated Interfaces"
+	quest.60F8737A1FA3F6E6.quest_desc: ["Best Solid Coolant for the &lReactor&r"]
 	quest.61696C9F0FAA6099.quest_desc: ["A &lMultiblock Controller&r"]
 	quest.6197E9A63931515C.quest_desc: ["Can be placed above a &lStrainer&r to prevent spills"]
 	quest.61B79C1E220FD1F4.quest_desc: ["From dropping &lMud&r into &lPolymorphic&r Fluid"]
@@ -679,7 +710,7 @@
 	]
 	quest.669264B7763F4F86.quest_desc: ["A block of &lCertus&r"]
 	quest.6723F1733AD58A60.quest_desc: ["Smelted &lDust&r"]
-	quest.67B03CF63C0C6B55.quest_desc: ["Keys i remember these "]
+	quest.67B03CF63C0C6B55.quest_desc: ["Keys I remember these "]
 	quest.67B2C0658B35CD84.quest_desc: [
 		"Useful for mining tougher blocks."
 		""
@@ -797,6 +828,17 @@
 	quest.7A659B586B998EEB.quest_desc: ["Made when using a &lAsteroid Hammer&r on a &lPrimal Coal Block&r"]
 	quest.7A70FAE22E592E9A.quest_desc: ["Made inside the &lCentrifuge&r"]
 	quest.7A84A9941CF3C818.quest_desc: ["A dusty mix"]
+	quest.7A97BBAFE76A07A8.quest_desc: [
+		"The &lMagmator&r is the automation block for the &l&5Stygian Anvil&r."
+		""
+		"Place it underneath the anvil and each X ticks, it will try to craft the item and place it inside a neighbor chest. It will don't do anything if no chest are available at the side of the block."
+		""
+		"Copper Magmator: 50 ticks/craft"
+		"Iron Magmator: 20 ticks/craft"
+		"Gold Magmator: 10 ticks/craft"
+		"Diamond Magmator: 5 ticks/craft"
+		"Netherite Magmator: 1 ticks/craft"
+	]
 	quest.7AA9680D5A6889C5.quest_desc: ["The &lFactory Layout&r can be used to view required blocks needed for the structure. You need to work through each tier starting with &lCopper&r. The next tiers blocks are added to the excisting structure"]
 	quest.7ACB3D314D70EB17.quest_desc: ["Infused with the &lMob Shard&r mob"]
 	quest.7AD56E8C5F8EDF39.quest_desc: ["The &lGem Finder&r will search the area for &lDiamond,&r &lEmerald&r and &lAmethyst&r blocks inside &lGeodes&r. This only detects blocks on the same axis!"]
@@ -850,6 +892,7 @@
 	task.15BC4CA10BF0D76B.title: "Upgrades"
 	task.173DCBADE801AE91.title: "The End"
 	task.18D78C49F671EA9E.title: "制作者"
+	task.1BC6F4EBF70E352B.title: "Draconic Evolution Patterns"
 	task.1C4D3B06253F6A1C.title: "Refined Construction Stick"
 	task.1C78778A7CA072E2.title: "公开服务器"
 	task.2020318B475087C5.title: "Energizing"
