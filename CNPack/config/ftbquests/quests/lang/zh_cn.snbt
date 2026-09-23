@@ -535,7 +535,7 @@
 	quest.4DA4D2A00FD1F26D.quest_subtitle: "Decorative"
 	quest.4DA5532BADF76ABE.quest_desc: ["Made on the &5&lStygian Anvil&r"]
 	quest.4DBD0494A9A9E11B.quest_desc: ["Processed &lCrystalline&r"]
-	quest.4E0E0AB3FF3C7AE5.quest_desc: ["One block that runs a whole fusion crafting. No Crafting Core, no Injectors, no alignment: the Matrix stages the ingredients itself, charges on raw energy, and hands the finished item back to the network."]
+	quest.4E0E0AB3FF3C7AE5.quest_desc: ["One block that runs a whole fusion crafting process. No Crafting Core, no Injectors, no alignment: the Matrix stages the ingredients itself, charges on raw energy, and hands the finished item back to the network, but it does need 15 channels to work."]
 	quest.4E0E3C705BD5410A.quest_desc: ["&lHappy Ghasts&r can be summoned using the &lSummoning Block&r. When equiped with a &lHarness&r can be controlled and used to fly around in &lSpace&r"]
 	quest.4E2B4445927F9A61.quest_desc: ["Requires 4 of these"]
 	quest.4EA0C2EE474CF072.quest_desc: ["Solid &lIron&r"]
@@ -613,9 +613,9 @@
 	quest.5A7DF1D11D52A81A.quest_desc: [
 		"Build the projector field as you normally would, then place the Controller so it touches one of the four projectors on any face."
 		""
-		"Put a Pattern Provider against any side of the Controller and drop Miniaturization Pattern patterns in it. The Controller buffers the blocks and the catalyst as they arrive."
+		"Put a Pattern Provider against any side of the Controller and drop &lMiniaturization Patterns&r into it. The Controller buffers the blocks and the catalyst as they arrive."
 		""
-		"The Controller is an ME machine: it joins the network through its own grid connection, draws a small standing power cost, and returns finished items to the Provider on its own. It needs no Import Card."
+		"It uses 7 channels by itself and returns finished items to the Provider on its own, so it doesn't need an &lImport Card&r."
 	]
 	quest.5AA091C6158AFC24.quest_desc: ["Expertly destroyed "]
 	quest.5AD6B428EE43837B.quest_desc: ["A horrible place to live"]
