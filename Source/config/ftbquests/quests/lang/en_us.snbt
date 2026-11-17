@@ -1114,7 +1114,7 @@
 	quest.7A97BBAFE76A07A8.quest_desc: [
 		"The &lMagmator&r is the automation block for the &l&5Stygian Anvil&r."
 		""
-		"Place it underneath the anvil and each X ticks, it will try to craft the item and place it inside a neighbor chest. It will don't do anything if no chest are available at the side of the block."
+		"Place it underneath the anvil and each X ticks, it will try to craft the item and place it inside a neighbor chest. It will not do anything if no chest are available at the side of the block."
 		""
 		"Copper Magmator: 50 ticks/craft"
 		"Iron Magmator: 20 ticks/craft"
