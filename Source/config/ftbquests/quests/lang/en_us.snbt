@@ -255,7 +255,11 @@
 	quest.1AD13B259C342B86.quest_desc: ["Turns &lSaplings&r into &lLogs&r"]
 	quest.1AF0B77129BB7EE9.quest_desc: ["Pulverized &lStone&r"]
 	quest.1B0B5C12ACC223E7.quest_desc: ["Placing this two blocks above the &lSolar Cooker&r allows you to use it when its dark"]
-	quest.1B6E36B401652544.quest_desc: ["Kills with loot, Has various levels"]
+	quest.1B6E36B401652544.quest_desc: [
+		"Applies looting enchantment."
+		""
+		"Has various levels"
+	]
 	quest.1B6E36B401652544.title: "Looting Upgrade"
 	quest.1BB38F6776AE7585.quest_desc: ["A simple key base to create keys"]
 	quest.1BEBCAC3E03E5E75.quest_desc: ["What a baby"]
@@ -392,7 +396,11 @@
 		""
 		"Open your&l Video Settings&r and click &lShader Packs&r on the top right!"
 	]
-	quest.2A01F01E0D82520F.quest_desc: ["Increases the amount of kills per operation, Has various levels"]
+	quest.2A01F01E0D82520F.quest_desc: [
+		"Kills more mobs per simulation."
+		""
+		"Has various levels"
+	]
 	quest.2A01F01E0D82520F.title: "Mass Upgrade"
 	quest.2A23EAB5D85DA9AB.quest_desc: ["Collects items from the world"]
 	quest.2A3F8CB17BFF849C.quest_desc: ["&lRaw Biopolymer&r can be dried to leather inside the drying table"]
@@ -639,7 +647,11 @@
 	quest.453E2B8B99D6E95C.quest_desc: ["A single block to create your essences"]
 	quest.453E5A48DD8B73E7.quest_desc: ["Smelted &lRaw Ore&r"]
 	quest.455EE64ABCFBC1D8.quest_desc: ["An alloy of &lPlatinum&r and &lNetherite&r"]
-	quest.45779FE831C1FE2B.quest_desc: ["Reduce the cost of summoning mobs, Has various levels"]
+	quest.45779FE831C1FE2B.quest_desc: [
+		"Reduce the consumption of &lVitality Fuel Fluid&r for each simulated mob."
+		""
+		"Has various levels"
+	]
 	quest.45779FE831C1FE2B.title: "Efficiency Upgrade"
 	quest.4584219F98BFD8DF.quest_desc: ["Obtained through &lStraining&r"]
 	quest.45BBB556A1823042.quest_desc: ["Requires &lOak Logs&r"]
@@ -749,6 +761,12 @@
 	quest.51F1F31FFF0D73B8.quest_desc: ["Found in small clusters on the roof of &l&#6075ffCrystalore&r"]
 	quest.5211B1829AF44263.quest_desc: ["&lAsteroid Dust&r and &lResources&r"]
 	quest.523C49FA0CD6CFEB.quest_desc: ["Obtained through &lStraining&r"]
+	quest.525119861D920052.quest_desc: [
+		"Reduce the spawn rate between each simulation."
+		""
+		"Has various levels"
+	]
+	quest.525119861D920052.title: "Rate Upgrade"
 	quest.52D014B315D5B22B.quest_desc: ["Unlocks a &lSecret Room&r in the &lLarge Asteroid&r"]
 	quest.52F6D5DE72436493.quest_desc: ["Crafted &lDust&r, this can also be used as an additional way of getting &lSilicon&r"]
 	quest.5301052D02674114.quest_desc: ["Produces &lStygian Dust&r with the &lMysterious Block Extractor&r"]
@@ -1114,7 +1132,7 @@
 	quest.7A97BBAFE76A07A8.quest_desc: [
 		"The &lMagmator&r is the automation block for the &l&5Stygian Anvil&r."
 		""
-		"Place it underneath the anvil and each X ticks, it will try to craft the item and place it inside a neighbor chest. It will don't do anything if no chest are available at the side of the block."
+		"Place it underneath the anvil and each X ticks, it will try to craft the item and place it inside a neighbor chest. It will not do anything if no chest are available at the side of the block."
 		""
 		"Copper Magmator: 50 ticks/craft"
 		"Iron Magmator: 20 ticks/craft"
@@ -1181,6 +1199,7 @@
 	quest.7FFDE907ADFB8943.quest_desc: ["Grown inside the &lCloche&r"]
 	reward_table.0C7DB9A9CD4CC5DF.title: "Random Goo Stew"
 	task.00A404CA8E6B01FA.title: "Sulfuric Acid"
+	task.00CA21BBDED06D5E.title: "Looting Upgrade"
 	task.03850A1C981207B6.title: "chaos stuff"
 	task.0413670B82FF66BE.title: "Infinity Drives"
 	task.050347DF47007109.title: "Any #minecraft:saplings"
@@ -1236,6 +1255,7 @@
 	task.543E1DCF89952511.title: "Any #contained:item_pipes"
 	task.546EAB8883D1DB46.title: "Support"
 	task.54EF8921A2AED1B2.title: "Any #minecraft:beds"
+	task.55D4A0CFAF4161EE.title: "Rate Upgrade"
 	task.585CC4000AE8BA91.title: "add the rest"
 	task.5BF799A75A774B69.title: "Any Goo Stew"
 	task.5E8B2D6EB618F8CE.title: "Resource Packs"
@@ -1249,6 +1269,8 @@
 	task.6A07DC60A8274E47.title: "Cindrath Spacesuit Chestplate"
 	task.6B16C696ECB1017F.title: "food"
 	task.6BB79AB094DA4304.title: "Light Naptha"
+	task.6BD4BA5513FC8FD8.title: "Mass Upgrade"
+	task.6BE467AA541A9FE6.title: "Efficiency Upgrade"
 	task.6CA3C3FD16A35E1A.title: "Multiblock"
 	task.6D442FA8D8CBD108.title: "Cindrath Spacesuit Leggings"
 	task.6DF172F3D35AF18E.title: "Oritech"
