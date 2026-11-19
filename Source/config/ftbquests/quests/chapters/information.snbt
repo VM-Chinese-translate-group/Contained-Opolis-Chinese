@@ -21,8 +21,8 @@
 				id: "3A0DA31BB18507AD"
 				type: "checkmark"
 			}]
-			x: -2.5d
-			y: -4.0d
+			x: 0.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["44F78276737DA0DD"]
@@ -39,8 +39,8 @@
 				id: "18D78C49F671EA9E"
 				type: "checkmark"
 			}]
-			x: -2.5d
-			y: -5.5d
+			x: 0.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["44F78276737DA0DD"]
@@ -57,8 +57,8 @@
 				id: "519884FA76D087A4"
 				type: "checkmark"
 			}]
-			x: -2.5d
-			y: -2.5d
+			x: 0.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["44F78276737DA0DD"]
@@ -75,8 +75,8 @@
 				id: "3D96FC466B093AF4"
 				type: "checkmark"
 			}]
-			x: -3.5d
-			y: -5.0d
+			x: -0.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["44F78276737DA0DD"]
@@ -93,8 +93,8 @@
 				id: "1C78778A7CA072E2"
 				type: "checkmark"
 			}]
-			x: -1.5d
-			y: -5.0d
+			x: 1.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["44F78276737DA0DD"]
@@ -111,8 +111,8 @@
 				id: "71033E9944EF5429"
 				type: "checkmark"
 			}]
-			x: -3.5d
-			y: -3.0d
+			x: -0.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["44F78276737DA0DD"]
@@ -129,8 +129,8 @@
 				id: "5F8CD4E81BCF10BD"
 				type: "checkmark"
 			}]
-			x: -1.0d
-			y: -4.0d
+			x: 2.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["44F78276737DA0DD"]
@@ -147,8 +147,8 @@
 				id: "5E8B2D6EB618F8CE"
 				type: "checkmark"
 			}]
-			x: -1.5d
-			y: -3.0d
+			x: 1.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["44F78276737DA0DD"]
@@ -165,8 +165,8 @@
 				id: "41326774DC8C040C"
 				type: "checkmark"
 			}]
-			x: -4.0d
-			y: -4.0d
+			x: -1.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["44F78276737DA0DD"]
@@ -183,8 +183,8 @@
 				id: "546EAB8883D1DB46"
 				type: "checkmark"
 			}]
-			x: -2.5d
-			y: -1.5d
+			x: 0.5d
+			y: 2.0d
 		}
 	]
 }
