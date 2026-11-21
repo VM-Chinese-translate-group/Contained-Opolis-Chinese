@@ -241,6 +241,7 @@
 		{
 			dependencies: ["26B50B889463613E"]
 			id: "36F55D551ED6D502"
+			optional: true
 			rewards: [{
 				id: "6019D69B109EDCB8"
 				item: {

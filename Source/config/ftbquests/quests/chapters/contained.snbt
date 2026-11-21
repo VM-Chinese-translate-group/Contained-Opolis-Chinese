@@ -27,7 +27,7 @@
 				type: "checkmark"
 			}]
 			x: 0.0d
-			y: -0.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["14692FCBFC5DBDF6"]
@@ -47,7 +47,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 1.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["3349838869E59C47"]
@@ -67,7 +67,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 0.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["06001485F671F236"]
@@ -86,7 +86,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 9.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["06001485F671F236"]
@@ -105,7 +105,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 7.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["06001485F671F236"]
@@ -124,7 +124,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 8.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["4708A895CDDC2763"]
@@ -143,7 +143,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 2.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["06001485F671F236"]
@@ -172,7 +172,7 @@
 				type: "item"
 			}]
 			x: -2.0d
-			y: 7.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["287F2448F5170032"]
@@ -183,7 +183,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["544923259D3E812A"]
@@ -203,7 +203,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 4.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["20729F28DD1C832C"]
@@ -222,7 +222,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 5.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["32402E328D4F4DEE"]
@@ -241,7 +241,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 7.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["06001485F671F236"]
@@ -260,7 +260,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 6.5d
+			y: 8.5d
 		}
 		{
 			dependencies: ["67B2C0658B35CD84"]
@@ -279,7 +279,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 10.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["348E4E4154918492"]
@@ -299,7 +299,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 11.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["06001485F671F236"]
@@ -318,7 +318,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 9.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["45E772F1E8AF36BF"]
@@ -337,7 +337,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 10.0d
+			y: 12.0d
 		}
 		{
 			dependencies: ["06001485F671F236"]
@@ -356,7 +356,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 6.5d
+			y: 8.5d
 		}
 		{
 			dependencies: ["744AAA39C04416C3"]
@@ -375,7 +375,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 12.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["06001485F671F236"]
@@ -386,7 +386,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 8.5d
+			y: 10.5d
 		}
 	]
 }
