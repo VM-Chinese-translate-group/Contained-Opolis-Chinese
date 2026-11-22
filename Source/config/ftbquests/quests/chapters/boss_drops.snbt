@@ -224,8 +224,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(woot_revived:copper_efficiency_upgrade)item(woot_revived:iron_efficiency_upgrade)item(woot_revived:gold_efficiency_upgrade)item(woot_revived:diamond_efficiency_upgrade)item(woot_revived:netherite_efficiency_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 0.0d
+			x: -2.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["7AA9680D5A6889C5"]
@@ -403,7 +403,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: -1.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["54228701CF1D533A"]
@@ -421,8 +421,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(woot_revived:copper_looting_upgrade)item(woot_revived:iron_looting_upgrade)item(woot_revived:gold_looting_upgrade)item(woot_revived:diamond_looting_upgrade)item(woot_revived:netherite_looting_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -2.0d
+			x: -1.7857142857142776d
+			y: -2.4464285714285694d
 		}
 		{
 			dependencies: ["7AA9680D5A6889C5"]
@@ -506,6 +506,7 @@
 				id: "nep:fusion_crafting_pattern"
 			}
 			id: "3182D266BB928C66"
+			optional: true
 			rewards: [{
 				id: "20575093FB9497E1"
 				item: {
@@ -520,6 +521,25 @@
 			}]
 			x: 1.0d
 			y: 9.5d
+		}
+		{
+			dependencies: ["54228701CF1D533A"]
+			id: "525119861D920052"
+			rewards: [{
+				id: "1ECA399DBE591371"
+				item: {
+					count: 1
+					id: "shops:copper_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "55D4A0CFAF4161EE"
+				item: { components: { "ftbfiltersystem:filter": "or(item(woot_revived:copper_rate_upgrade)item(woot_revived:iron_rate_upgrade)item(woot_revived:gold_rate_upgrade)item(woot_revived:diamond_rate_upgrade)item(woot_revived:netherite_rate_upgrade))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.6428571428571388d
+			y: 0.2678571428571459d
 		}
 	]
 }
