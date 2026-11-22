@@ -182,7 +182,11 @@
 	quest.1A7EBB0F55C0113F.quest_desc: ["Part of the&l Particle Accelerator&r"]
 	quest.1AF0B77129BB7EE9.quest_desc: ["Pulverized &lStone&r"]
 	quest.1B0B5C12ACC223E7.quest_desc: ["Placing this two blocks above the &lSolar Cooker&r allows you to use it when its dark"]
-	quest.1B6E36B401652544.quest_desc: ["Kills with loot, Has various levels"]
+	quest.1B6E36B401652544.quest_desc: [
+		"Applies looting enchantment."
+		""
+		"Has various levels"
+	]
 	quest.1B6E36B401652544.title: "Looting Upgrade"
 	quest.1BEBCAC3E03E5E75.quest_desc: ["What a baby"]
 	quest.1C41D8ECDDBF4146.quest_desc: ["From &lBio Spores&r"]
@@ -278,7 +282,11 @@
 		""
 		"打开&l视频设置&r，点击右上角的&l光影包&r选项吧！"
 	]
-	quest.2A01F01E0D82520F.quest_desc: ["Increases the amount of kills per operation, Has various levels"]
+	quest.2A01F01E0D82520F.quest_desc: [
+		"Kills more mobs per simulation."
+		""
+		"Has various levels"
+	]
 	quest.2A01F01E0D82520F.title: "Mass Upgrade"
 	quest.2A23EAB5D85DA9AB.quest_desc: ["Collects items from the world"]
 	quest.2A3F8CB17BFF849C.quest_desc: ["&lRaw Biopolymer&r can be dried to leather inside the drying table"]
@@ -470,7 +478,11 @@
 	quest.44F78276737DA0DD.quest_desc: ["感谢下载，&l欢迎来到Contained&r！一个1.21.1版本下的&l太空主题整合包&r"]
 	quest.453E2B8B99D6E95C.quest_desc: ["A single block to create your essences"]
 	quest.455EE64ABCFBC1D8.quest_desc: ["An alloy of &lPlatinum&r and &lNetherite&r"]
-	quest.45779FE831C1FE2B.quest_desc: ["Reduce the cost of summoning mobs, Has various levels"]
+	quest.45779FE831C1FE2B.quest_desc: [
+		"Reduce the consumption of &lVitality Fuel Fluid&r for each simulated mob."
+		""
+		"Has various levels"
+	]
 	quest.45779FE831C1FE2B.title: "Efficiency Upgrade"
 	quest.4584219F98BFD8DF.quest_desc: ["Obtained through &lStraining&r"]
 	quest.45BBB556A1823042.quest_desc: ["Requires &lOak Logs&r"]
@@ -555,6 +567,12 @@
 	quest.51ACA7ABB73A3258.quest_desc: ["Upgrades your &lSpace Suit&r"]
 	quest.51F1F31FFF0D73B8.quest_desc: ["Found in small clusters on the roof of &l&#6075ffCrystalore&r"]
 	quest.523C49FA0CD6CFEB.quest_desc: ["Obtained through &lStraining&r"]
+	quest.525119861D920052.quest_desc: [
+		"Reduce the spawn rate between each simulation."
+		""
+		"Has various levels"
+	]
+	quest.525119861D920052.title: "Rate Upgrade"
 	quest.52F6D5DE72436493.quest_desc: ["Crafted &lDust&r, this can also be used as an additional way of getting &lSilicon&r"]
 	quest.5301052D02674114.quest_desc: ["Produces &lStygian Dust&r with the &lMysterious Block Extractor&r"]
 	quest.5314D5E924AD2BA4.quest_desc: ["The pump when placed above fluid will pump the fluids at the cost of power"]
@@ -832,7 +850,7 @@
 	quest.7A97BBAFE76A07A8.quest_desc: [
 		"The &lMagmator&r is the automation block for the &l&5Stygian Anvil&r."
 		""
-		"Place it underneath the anvil and each X ticks, it will try to craft the item and place it inside a neighbor chest. It will don't do anything if no chest are available at the side of the block."
+		"Place it underneath the anvil and each X ticks, it will try to craft the item and place it inside a neighbor chest. It will not do anything if no chest are available at the side of the block."
 		""
 		"Copper Magmator: 50 ticks/craft"
 		"Iron Magmator: 20 ticks/craft"
@@ -882,6 +900,7 @@
 	quest.7FAEB1F541D28E3A.quest_desc: ["Part of the &lRefinery&r"]
 	reward_table.0C7DB9A9CD4CC5DF.title: "Random Goo Stew"
 	task.00A404CA8E6B01FA.title: "Sulfuric Acid"
+	task.00CA21BBDED06D5E.title: "Looting Upgrade"
 	task.0413670B82FF66BE.title: "Infinity Drives"
 	task.050347DF47007109.title: "Any #minecraft:saplings"
 	task.057CB1E08F68EE0B.title: "GG"
@@ -915,11 +934,14 @@
 	task.524CAA1C83702AEB.title: "Tiers"
 	task.546EAB8883D1DB46.title: "支持"
 	task.54EF8921A2AED1B2.title: "Any #minecraft:beds"
+	task.55D4A0CFAF4161EE.title: "Rate Upgrade"
 	task.5BF799A75A774B69.title: "Any Goo Stew"
 	task.5E8B2D6EB618F8CE.title: "资源包"
 	task.5F8CD4E81BCF10BD.title: "连锁破坏"
 	task.6433DEFD87EF8993.title: "Crystalore"
 	task.6BB79AB094DA4304.title: "Light Naptha"
+	task.6BD4BA5513FC8FD8.title: "Mass Upgrade"
+	task.6BE467AA541A9FE6.title: "Efficiency Upgrade"
 	task.6CA3C3FD16A35E1A.title: "Multiblock"
 	task.70B1CADBA39B1564.title: "End Suit Helmet"
 	task.71033E9944EF5429.title: "任务"
